@@ -9,6 +9,7 @@ The goal is to process CRM and ERP data efficiently using ETL processes, ensurin
 
 # 🏗️ Data Architecture
 The project follows the Medallion Architecture:
+
 ![Image](https://github.com/user-attachments/assets/c0bacaba-4735-4306-b59a-7811237812c9)
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
@@ -26,28 +27,16 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
-- SQL Development
-- Data Architect
-- Data Engineering  
-- ETL Pipeline Developer  
-- Data Modeling  
-- Data Analytics  
-
 ---
 
+## 🛠️ Important Links & Tools:
+- **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+- **[DrawIO](https://www.drawio.com/)
+- **[Notion](https://www.notion.com/)
+- **[Notion Project Steps](https://mixed-tin-8ab.notion.site/Data-Warehouse-Project-19a4a9917e93806e8dd4f9cdc4b6a9d5?pvs=4):** Access to All Project Phases and Tasks.
 
-
-
-
-
-
-# Data Warehouse and Analytics Project
-
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
-
-
+---
 
 ## 🚀 Project Requirements
 
@@ -63,8 +52,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
-
-
+---
 
 ### BI: Analytics & Reporting (Data Analysis)
 #### Objective
