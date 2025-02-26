@@ -1,3 +1,26 @@
+
+# Data Warehouse Project (Medallion Architecture)
+
+
+# 📌 Project Overview
+
+This project implements a Data Warehouse using SQL Server following the Medallion Architecture (Bronze, Silver, Gold layers).  
+The goal is to process CRM and ERP data efficiently using ETL processes, ensuring clean, structured, and optimized data for reporting and analysis.
+
+# 🏗️ Data Architecture
+The project follows the Medallion Architecture:
+
+<img src= 
+
+
+
+
+
+
+
+
+
+
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
