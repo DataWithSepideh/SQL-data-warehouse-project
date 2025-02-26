@@ -30,11 +30,11 @@ This project involves:
 ---
 
 ## 🛠️ Important Links & Tools:
-- **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
-- **[DrawIO](https://www.drawio.com/)
-- **[Notion](https://www.notion.com/)
-- **[Notion Project Steps](https://mixed-tin-8ab.notion.site/Data-Warehouse-Project-19a4a9917e93806e8dd4f9cdc4b6a9d5?pvs=4):** Access to All Project Phases and Tasks.
+- [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
+- [DrawIO](https://www.drawio.com/)
+- [Notion](https://www.notion.com/)
+- [Notion Project Steps](https://mixed-tin-8ab.notion.site/Data-Warehouse-Project-19a4a9917e93806e8dd4f9cdc4b6a9d5?pvs=4): Access to All Project Phases and Tasks.
 
 ---
 
