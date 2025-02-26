@@ -9,8 +9,7 @@ The goal is to process CRM and ERP data efficiently using ETL processes, ensurin
 
 # 🏗️ Data Architecture
 The project follows the Medallion Architecture:
-
-<img src= 
+![Data Architecture](docs/data_architecture.png)
 
 
 
